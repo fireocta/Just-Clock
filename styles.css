@@ -7,7 +7,7 @@ body {
     margin: 0;
 }
 
-time {
+#time {
     color: blue; /* Change this to any color */
     font-size: 12px;
     font-weight: bold;
