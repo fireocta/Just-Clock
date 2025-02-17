@@ -1,4 +1,13 @@
-#time {
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+time {
     color: red; /* Change this to any color */
     font-size: 24px;
     font-weight: bold;
